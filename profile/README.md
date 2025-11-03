@@ -49,7 +49,7 @@ Here’s where you can explore our technical and design documentation:
 We’re open to collaboration — whether it’s feedback, ideas, or code.  
 If you’d like to help:
 1. Check out our [**Community repo**](https://github.com/PandaLab-io/community)
-2. Read our [**Contribution Guidelines**](https://github.com/PandaLab-io/docs-hub/CONTRIBUTING.md)
+2. Read our [**Contribution Guidelines**](https://github.com/PandaLab-io/docs-hub/blob/main/CONTRIBUTING.md)
 3. Join discussions, propose features, or open pull requests  
 
 💡 _Note: while our team remains anonymous, our work is open to everyone._
