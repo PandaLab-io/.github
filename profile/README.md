@@ -25,7 +25,7 @@ Here are our main repositories — the core of the PandaLab ecosystem:
 |  **Portfolio Backend** | API and data layer powering the portfolio and tools. | [PandaLab-io/portfolio-be](https://github.com/PandaLab-io/portfolio-be) |
 |  **Infra Tools** | Shared CI/CD pipelines, Docker setup, and automation scripts. | [PandaLab-io/infra](https://github.com/PandaLab-io/infra) |
 |  **Design Assets** | Brand files, Figma exports, icons, and visual documentation. | [PandaLab-io/design-assets](https://github.com/PandaLab-io/asset-ui) |
-|  **Wiki** | Documentation for developers. | [PandaLab-io/community](https://github.com/PandaLab-io/docs-hub/wiki/README.md) |
+|  **Wiki** | Documentation for developers. | [PandaLab-io/community](https://github.com/PandaLab-io/docs-hub/blob/main/wiki/README.md) |
 |  **Community** | Ideas, discussions, and open issues for everyone. | [PandaLab-io/community](https://github.com/PandaLab-io/community) |
 
 ---
