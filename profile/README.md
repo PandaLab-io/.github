@@ -21,25 +21,30 @@ Here are our main repositories — the core of the PandaLab ecosystem:
 
 | Project | Description | Repo |
 |----------|--------------|------|
-| 🎨 **Portfolio Frontend** | The public website and UI for our projects and showcase. | [PandaLab-io/portfolio-fe](https://github.com/PandaLab-io/portfolio-fe) |
-| ⚙️ **Portfolio Backend** | API and data layer powering the portfolio and tools. | [PandaLab-io/portfolio-be](https://github.com/PandaLab-io/portfolio-be) |
-| 🧰 **Infra Tools** | Shared CI/CD pipelines, Docker setup, and automation scripts. | [PandaLab-io/infra](https://github.com/PandaLab-io/infra) |
-| 🧠 **Design Assets** | Brand files, Figma exports, icons, and visual documentation. | [PandaLab-io/design-assets](https://github.com/PandaLab-io/design-assets) |
-| 💬 **Community** | Ideas, discussions, and open issues for everyone. | [PandaLab-io/community](https://github.com/PandaLab-io/community) |
+|  **Portfolio Frontend** | The public website and UI for our projects and showcase. | [PandaLab-io/portfolio-fe](https://github.com/PandaLab-io/portfolio-fe) |
+|  **Portfolio Backend** | API and data layer powering the portfolio and tools. | [PandaLab-io/portfolio-be](https://github.com/PandaLab-io/portfolio-be) |
+|  **Infra Tools** | Shared CI/CD pipelines, Docker setup, and automation scripts. | [PandaLab-io/infra](https://github.com/PandaLab-io/infra) |
+|  **Design Assets** | Brand files, Figma exports, icons, and visual documentation. | [PandaLab-io/design-assets](https://github.com/PandaLab-io/design-assets) |
+|  **Community** | Ideas, discussions, and open issues for everyone. | [PandaLab-io/community](https://github.com/PandaLab-io/community) |
 
 ---
 
-## 📚 Wiki & Documentation
+##  Wiki & Documentation
+
 We maintain documentation and internal notes in each repository’s **Wiki** section.  
-You can explore:
-- [🔗 Portfolio FE Wiki](https://github.com/PandaLab-io/portfolio-fe/wiki)
-- [🔗 Portfolio BE Wiki](https://github.com/PandaLab-io/portfolio-be/wiki)
-- [🔗 Infra Tools Wiki](https://github.com/PandaLab-io/infra/wiki)
-- [🔗 Design Assets Wiki](https://github.com/PandaLab-io/design-assets/wiki)
+Here’s where you can explore our technical and design documentation:
+
+| Repository | Description | Wiki Link |
+|-------------|--------------|-----------|
+|  **Portfolio Frontend** | UI and website documentation, component structure, and build setup. | [Open Wiki →](https://github.com/PandaLab-io/portfolio-fe/wiki) |
+|  **Portfolio Backend** | API structure, endpoints, and database schema documentation. | [Open Wiki →](https://github.com/PandaLab-io/portfolio-be/wiki) |
+|  **Infra Tools** | CI/CD pipelines, deployment guides, and environment setup. | [Open Wiki →](https://github.com/PandaLab-io/infra/wiki) |
+|  **Design Assets** | Figma links, design tokens, and brand guidelines. | [Open Wiki →](https://github.com/PandaLab-io/design-assets/wiki) |
 
 ---
 
-## 🧭 Contributing
+
+##  Contributing
 We’re open to collaboration — whether it’s feedback, ideas, or code.  
 If you’d like to help:
 1. Check out our [**Community repo**](https://github.com/PandaLab-io/community)
@@ -50,7 +55,7 @@ If you’d like to help:
 
 ---
 
-## 🛠️ Stack
+##  Stack
 Our projects are built with a modern, open-source stack:
 - **Frontend:** Angular / React  
 - **Backend:** Java / Python / Go  
@@ -60,15 +65,14 @@ Our projects are built with a modern, open-source stack:
 ---
 
 ## 🌐 Links
-- 🔗 [Website](https://pandalab.io) *(coming soon)*  
-- 🐙 [GitHub Organization](https://github.com/PandaLab-io)  
-- 🧩 [Community Discussions](https://github.com/PandaLab-io/community/discussions)  
+-  [Website](https://pandalab.io) *(coming soon)*  
+-  [GitHub Organization](https://github.com/PandaLab-io)  
+-  [Community Discussions](https://github.com/PandaLab-io/community/discussions)  
 
----
-
-## 💬 Motto
-> _“Build quietly. Share loudly.”_
 
 ---
 
 © PandaLab — Open Source Collective
+
+> _“Build quietly. Share loudly.”_
+
