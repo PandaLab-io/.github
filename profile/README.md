@@ -21,8 +21,8 @@ Here are our main repositories — the core of the PandaLab ecosystem:
 
 | Project | Description | Repo |
 |----------|--------------|------|
-|  **Portfolio Frontend** | The public website and UI for our projects and showcase. | [PandaLab-io/portfolio-fe](https://github.com/PandaLab-io/portfolio-fe) |
-|  **Portfolio Backend** | API and data layer powering the portfolio and tools. | [PandaLab-io/portfolio-be](https://github.com/PandaLab-io/portfolio-be) |
+|  **Iris Frontend** | The public website and UI for our projects and showcase. | [PandaLab-io/iris-fe](https://github.com/PandaLab-io/iris-fe) |
+|  **Iris Backend** | API and data layer powering the platforms and tools. | [PandaLab-io/iris-be](https://github.com/PandaLab-io/iris-be) |
 |  **Infra Tools** | Shared CI/CD pipelines, Docker setup, and automation scripts. | [PandaLab-io/infra](https://github.com/PandaLab-io/infra) |
 |  **Design Assets** | Brand files, Figma exports, icons, and visual documentation. | [PandaLab-io/design-assets](https://github.com/PandaLab-io/asset-ui) |
 |  **Wiki** | Documentation for developers. | [PandaLab-io/wiki](https://github.com/PandaLab-io/docs-hub/blob/main/wiki/README.md) |
@@ -37,8 +37,8 @@ Here’s where you can explore our technical and design documentation:
 
 | Repository | Description | Wiki Link |
 |-------------|--------------|-----------|
-|  **Portfolio Frontend** | UI and website documentation, component structure, and build setup. | [Open Wiki →](https://github.com/PandaLab-io/docs-hub/wiki/portfolio-fe) |
-|  **Portfolio Backend** | API structure, endpoints, and database schema documentation. | [Open Wiki →](https://github.com/PandaLab-io/docs-hub/wiki/portfolio-be) |
+|  **Iris Frontend** | UI and website documentation, component structure, and build setup. | [Open Wiki →](https://github.com/PandaLab-io/docs-hub/wiki/iris-fe) |
+|  **Iris Backend** | API structure, endpoints, and database schema documentation. | [Open Wiki →](https://github.com/PandaLab-io/docs-hub/wiki/iris-be) |
 |  **Infra Tools** | CI/CD pipelines, deployment guides, and environment setup. | [Open Wiki →](https://github.com/PandaLab-io/docs-hub/wiki/infra) |
 |  **Design Assets** | Figma links, design tokens, and brand guidelines. | [Open Wiki →](https://github.com/PandaLab-io/docs-hub/wiki/asset-ui) |
 
